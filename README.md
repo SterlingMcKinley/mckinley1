@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mckinley1
-- 👀 I’m interested in DevOps
+- 👋 Hi, Im Sterling
+- 👀 I’m interested in all things tech, especially Cloud, DevOps and Middleware.
 - 🌱 I’m currently learning Python, Kubernetes and Cloud technology
-- 💞️ I’m looking to collaborate on projects that will enhance/develop my knowledge and skillset.
+- 💞️ I’m looking to LEARN, collaborate on projects that will enhance/develop my knowledge and skillset.
 - 📫 How to reach me via LinkedIn www.linkedin.com/in/sterling-mckinley-a4762917 or email: mckinleyvsterling@gmail.com
 
 <!---
